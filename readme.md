@@ -1,6 +1,10 @@
+
 # Lab1 AI Enterprice Systems
-A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
+Assignment 2:
+![screenshot of loading dataset](Screenshots/Load%20dataset.png)
+![screenshot of Split and train dataset](Screenshots/Split%20data%20and%20train%20model.png)
 
-The first two terms are 0 and 1. All other terms are obtained by adding the preceding two terms. This means to say the nth term is the sum of (n-1)th and (n-2)th term.
+Branch screenshot:
+![branch status](Screenshots/branch%20status.png)
 
-![screenshot of ](ss.png)
+Train model
